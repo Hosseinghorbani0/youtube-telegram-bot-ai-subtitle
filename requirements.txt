@@ -1,0 +1,5 @@
+aiogram==3.13.1
+yt-dlp==2024.11.16
+python-dotenv==1.0.1
+googletrans==4.0.0-rc1
+

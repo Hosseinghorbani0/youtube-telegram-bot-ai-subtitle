@@ -1,0 +1,5 @@
+whisperx
+fastapi
+uvicorn
+hf_xet
+
